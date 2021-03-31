@@ -11,5 +11,9 @@ public class Runner {
 	 
 	int r3 = exercise.sub(9, 6);
 	System.out.println(r3);
+	
+	int r4 = exercise.sub(12, 3);
+	System.out.println(r4);
+	
 	}
 }

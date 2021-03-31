@@ -16,5 +16,10 @@ public class exercise {
 		return result3;
 	}
 
+	public static int div(int num7, int num8) {
+		int result4 = num7 / num8;
+		return result4;
+		
+	}
 
 }
